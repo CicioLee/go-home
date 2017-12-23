@@ -1,4 +1,4 @@
-[![Sourcegraph](https://sourcegraph.com/github.com/JingDa-open-source-community/go-home/-/badge.svg)](https://sourcegraph.com/github.com/JingDa-open-source-community/go-home?badge)
+﻿[![Sourcegraph](https://sourcegraph.com/github.com/JingDa-open-source-community/go-home/-/badge.svg)](https://sourcegraph.com/github.com/JingDa-open-source-community/go-home?badge)
 
 #Querys train schedule use the origin command line tools
 
@@ -96,7 +96,7 @@ In fact you should use a command like **go-home train k502 2017-01-27** to query
 
 Wechat: convertxy
 
-QQ: 2698380951
+QQ: 26983809511
 
 Email: aliasliyu4@gmail.com
 
